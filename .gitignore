@@ -1,0 +1,51 @@
+# LSL Script Development
+*.lsl.bak
+*.backup
+*.orig
+*.tmp
+*.temp
+
+# Second Life Cache Files
+*.slcache
+*.sl2cache
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary folders
+tmp/
+temp/
+
+# Local development files
+*.local.*
+local.*
+
+# Sound files (if you want to exclude large audio files)
+# *.wav
+# *.ogg
+# *.mp3
+
+# Compiled or generated files
+build/
+dist/
+output/
